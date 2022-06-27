@@ -1,0 +1,14 @@
+{
+  "id": "blelocationserver",
+  "name": "BLE Location Server",
+  "version": "0.01",
+  "description": "A widget which automatically starts the GPS and turns Bangle.js into a Bluetooth location and navigation server.",
+  "icon": "widget.png",
+  "type": "widget",
+  "tags": "widget",
+  "supports": ["BANGLEJS"],
+  "readme": "README.md",
+  "storage": [
+    {"name":"blelocationserver.wid.js","url":"widget.js"}
+  ]
+}
